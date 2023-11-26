@@ -20,6 +20,10 @@ section{
     
 }
 
+img{
+    width: 100px;
+}
+
 footer{
     color: white;
     text-align: center;
